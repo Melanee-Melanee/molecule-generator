@@ -14,3 +14,4 @@ python -u train.py --smiles_data=egfr_smiles.txt --vocab_from=smiles.txt --save_
 ```
 python sample.py --vocab_from=smiles.txt --save_file=save_egfr/model_9.ckpt-9 --result_filename=result.txt
 ```
+![Generating Focussed Molecule Libraries for Drug Discovery](https://user-images.githubusercontent.com/74653444/160229561-dc6c3394-a074-4ad0-bbff-dfcf3aa2dde2.png)
