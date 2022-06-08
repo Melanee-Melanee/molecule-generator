@@ -1,5 +1,5 @@
 # Tensorflow implementation of Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks
-https://arxiv.org/abs/1701.01329 (generating molecule.pdf)
+https://arxiv.org/abs/1701.01329 (molecule generating.pdf)
 
 1. You need a smiles (smiles.txt) file for pretraining the model. 
 2. Train the model using following command
